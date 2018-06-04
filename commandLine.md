@@ -39,7 +39,7 @@ Downloads repositry to your local pwd
 ## init
 Starts a local git repository
 
-## add <file>
+## add < file >
 Tracks file/folder (you can use "git add." to track everything)
 
 ## commit <-m> <message>
